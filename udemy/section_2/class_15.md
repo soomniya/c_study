@@ -20,7 +20,8 @@ int main(void): int형을 반환해야 함<br>
 **그 외 값**은 오류가 있음을 의미
 <hr>
 
-* [ ] C는 **절차적**이다
+* [X] C는 **절차적**이다. <br>
+📎 [18. C언어의 기본 문법](https://github.com/soomniya/c_study/blob/main/udemy/section_2/class_18.md)
 
 <hr>
 
